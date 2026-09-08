@@ -1,0 +1,19 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 模型权重、数据集、日志
+*.pth
+*.pt
+*.h5
+dataset/
+weights/
+checkpoints/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
